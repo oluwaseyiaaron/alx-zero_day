@@ -1,1 +1,1 @@
-a new directory called 0x03-git
+welcome to my projec
